@@ -1,0 +1,14 @@
+{
+    "awsSdk": {
+        "accessKeyId": "XXXXXXXXXXXXXXXXXXXX",
+        "secretAccessKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "googleSdk": {
+        "cseId": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "app": {
+        "port": 8080,
+        "host": "localhost"
+    }
+}
